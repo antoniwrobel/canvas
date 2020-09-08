@@ -1,4 +1,4 @@
-import React, { useRef, useEffect, useState, useCallback, useMemo } from "react"
+import React, { useRef, useEffect, useState, useCallback } from "react"
 import "./App.css"
 
 import * as S from "./styles"
